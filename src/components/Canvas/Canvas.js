@@ -1,7 +1,6 @@
 /**
  * Created by michal.stys on 31.01.2017.
  */
-
 import React, {Component} from 'react';
 import CanvasElements from '../CanvasElements/CanvasElements';
 import MyRectangle from '../MyRectangle/MyRectangle';
