@@ -1,6 +1,7 @@
 #Create rectangle on canvas using React and React-Konva.
 
 This project is an example how to use React and KonvaJS to generate dynamic shapes on canvas and make simple events handler.
+See working example [here](https://mstys.github.io/ReactKonvaDynamicRectangle/) or read an [article](http://frontowo.pl/blog/draw-with-reactkonva).
 
 Read more about KonvaJS on [KonvaJS](https://konvajs.github.io/) and React-Konva [ReactKonva](https://github.com/lavrton/react-konva) .
 

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bb67b19-570f-4918-9216-bd1f3fc87d3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Canvas/Canvas.js" afterPath="$PROJECT_DIR$/src/components/Canvas/Canvas.js" />
-    </list>
+    <list default="true" id="4bb67b19-570f-4918-9216-bd1f3fc87d3c" name="Default" comment="" />
     <ignored path="ReactKonvaDynamicRectangle.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
